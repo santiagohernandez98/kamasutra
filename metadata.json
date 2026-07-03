@@ -1,0 +1,6 @@
+{
+  "name": "Guía Kamasutra",
+  "description": "Una guía completa, elegante e ilustrada de posiciones del Kamasutra, con muñecos esquemáticos, descripciones detalladas, pasos y filtros de dificultad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
